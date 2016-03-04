@@ -1,0 +1,29 @@
+{
+  "name": "scapegoat",
+  "version": "1.0.0",
+  "description": "A simple demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlazov/scapegoat.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "Don Lazov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlazov/scapegoat/issues"
+  },
+  "homepage": "https://github.com/dlazov/scapegoat#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  },
+  "scripts": {
+  "test": "make test"
+  }
+}
